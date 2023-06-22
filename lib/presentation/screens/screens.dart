@@ -1,0 +1,12 @@
+export 'home/home_screen.dart';
+export 'news_screens/details_news_screen.dart';
+export 'news_screens/view_all_news_screen.dart';
+export 'games_screens/view_all__games_screen.dart';
+export 'games_screens/game_detail_screen.dart';
+export 'config/config_screen.dart';
+export 'login/login_screen.dart';
+export 'login/register_screen.dart';
+export 'login/welcome_screen.dart';
+export 'login/login.dart';
+export 'login/register.dart';
+export 'login/user_context_google.dart';
